@@ -63,20 +63,6 @@ E-commerce/
 - **Integrated with a live E-commerce API** for dynamic data
 
 ---
-
-### 👥 Contributors
-| Name    | Work                                                                 |
-|--------|----------------------------------------------------------------------|
-| **Rawan**  | Home page (`index.html`), product details page (`product.html`), footer |
-| **Fatma**  | Products page (`products.html`) and related JavaScript & CSS     |
-| **Aliaa**  | Login & register pages, cart, checkout, orders, authentication logic, header, and the rest of the project |
-
----
-
-### 🚀 How to Run
-Simply open `index.html` in your browser to explore the website locally.  
-Or check the live demo here: 👉 [https://aliaa-mohamed47.github.io/E-commerce/](https://aliaa-mohamed47.github.io/E-commerce/)
-
 ---
 
 ### 📌 Technologies Used
