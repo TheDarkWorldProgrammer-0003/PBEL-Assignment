@@ -9,7 +9,7 @@ It includes pages like Home, Product Details, Cart, Checkout, Orders, and authen
 ---
 
 ### 🌐 Demo
- [Live Demo on GitHub Pages](https://aliaa-mohamed47.github.io/E-commerce/)
+ [Live Demo on GitHub Pages](https://thedarkworldprogrammer-0003.github.io/PBEL-Assignment/)
 
 ---
 
