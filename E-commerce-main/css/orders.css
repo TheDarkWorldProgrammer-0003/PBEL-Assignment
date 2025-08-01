@@ -1,0 +1,51 @@
+body {
+  padding-top: 60px;
+  background-color: #f2f7fb;
+  font-family: 'Poppins', sans-serif;
+}
+h2 {
+  color: #2c558f;
+  font-weight: 600;
+}
+.order-card {
+  background: #aac6dd;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.order-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.order-products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.order-product {
+  flex: 0 0 80px;
+  height: 280px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 5px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+.order-product img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  margin-bottom: 4px;
+}
+.order-product div {
+  font-size: 0.8em;
+}
+
+
+
