@@ -49,10 +49,6 @@ E-commerce/
 ├── product.html
 ├── products.html
 └── reset-password.html
-```
----
-
----
 
 ###  Features
 - User authentication (login, register, forget password, reset password, OTP)
