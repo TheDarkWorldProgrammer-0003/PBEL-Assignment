@@ -58,9 +58,6 @@ E-commerce/
 - Responsive design using Bootstrap
 - **Integrated with a live E-commerce API** for dynamic data
 
----
----
-
 ### 📌 Technologies Used
 - HTML5
 - CSS3
