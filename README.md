@@ -9,7 +9,7 @@ It includes pages like Home, Product Details, Cart, Checkout, Orders, and authen
 ---
 
 ### 🌐 Demo
- [Live Demo on GitHub Pages](https://aliaa-mohamed47.github.io/E-commerce/)
+ [Live Demo on GitHub Pages](https://thedarkworldprogrammer-0003.github.io/PBEL-Assignment/)
 
 ---
 
@@ -49,10 +49,6 @@ E-commerce/
 ├── product.html
 ├── products.html
 └── reset-password.html
-```
----
-
----
 
 ###  Features
 - User authentication (login, register, forget password, reset password, OTP)
@@ -61,9 +57,6 @@ E-commerce/
 - View past orders
 - Responsive design using Bootstrap
 - **Integrated with a live E-commerce API** for dynamic data
-
----
----
 
 ### 📌 Technologies Used
 - HTML5
